@@ -1,0 +1,8 @@
+C:\Users\samet\source\repos\dairecizme\dairecizme\bin\Debug\dairecizme.exe.config
+C:\Users\samet\source\repos\dairecizme\dairecizme\bin\Debug\dairecizme.exe
+C:\Users\samet\source\repos\dairecizme\dairecizme\bin\Debug\dairecizme.pdb
+C:\Users\samet\source\repos\dairecizme\dairecizme\obj\Debug\dairecizme.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\dairecizme\dairecizme\obj\Debug\dairecizme.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\dairecizme\dairecizme\obj\Debug\dairecizme.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\dairecizme\dairecizme\obj\Debug\dairecizme.exe
+C:\Users\samet\source\repos\dairecizme\dairecizme\obj\Debug\dairecizme.pdb
