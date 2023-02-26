@@ -1,0 +1,8 @@
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\bin\Debug\ucgencizme.exe.config
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\bin\Debug\ucgencizme.exe
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\bin\Debug\ucgencizme.pdb
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\obj\Debug\ucgencizme.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\obj\Debug\ucgencizme.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\obj\Debug\ucgencizme.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\obj\Debug\ucgencizme.exe
+C:\Users\samet\source\repos\ucgencizme\ucgencizme\obj\Debug\ucgencizme.pdb
