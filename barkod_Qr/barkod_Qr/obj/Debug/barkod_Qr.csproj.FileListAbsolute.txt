@@ -1,0 +1,13 @@
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\bin\Debug\barkod_Qr.exe.config
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\bin\Debug\barkod_Qr.exe
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\bin\Debug\barkod_Qr.pdb
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.Form1.resources
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.Properties.Resources.resources
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.csproj.CopyComplete
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.exe
+C:\Users\samet\source\repos\barkod_Qr\barkod_Qr\obj\Debug\barkod_Qr.pdb
